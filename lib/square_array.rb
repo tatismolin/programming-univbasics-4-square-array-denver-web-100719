@@ -4,6 +4,6 @@ def square_array(array)
 
   while array[start] do
     puts array[start]
-    start = start.square
+    start = start **
   end
 end
